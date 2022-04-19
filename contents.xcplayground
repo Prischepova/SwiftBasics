@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Lesson 1'/>
+        <page name='Lesson 2'/>
+        <page name='Lesson 3'/>
+        <page name='Lesson 4'/>
+        <page name='Lesson 5'/>
+        <page name='Lesson 6'/>
+        <page name='Lesson 7'/>
+        <page name='Lesson 8'/>
+        <page name='Lesson 9'/>
+        <page name='Lesson 10'/>
+        <page name='Lesson 11'/>
+        <page name='Lesson 12 part1'/>
+        <page name='Lesson 12 part2'/>
+        <page name='Lesson 13'/>
+        <page name='Lesosn 14'/>
+        <page name='Lesson 15'/>
+        <page name='Lasson 16'/>
+        <page name='Lesson 17'/>
+        <page name='Lesson 18'/>
+        <page name='Lesson 19'/>
+    </pages>
+</playground>
